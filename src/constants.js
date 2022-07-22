@@ -1,4 +1,4 @@
-export const COLORS = {
+ export const COLORS = {
     white: 'hsl(0deg 0% 100%)',
     gray: {
         100: 'hsl(185deg 5% 95%)',
