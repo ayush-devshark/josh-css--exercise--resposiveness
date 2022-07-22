@@ -47,7 +47,7 @@ const ShoeCard = ({
           <Price
             style={{
               '--color':
-                variant === 'on-sale' ? COLORS.gray[700] : undefined,
+                variant === 'on-sale' ? 'var(--color-gray-700)' : undefined,
               '--text-decoration':
                 variant === 'on-sale' ? 'line-through' : undefined,
             }}
